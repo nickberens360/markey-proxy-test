@@ -123,8 +123,8 @@ export default {
       items: [
         {
           icon: 'mdi-apps',
-          title: 'Welcome',
-          to: '/'
+          title: 'Customer Stripe',
+          to: '/customers/stripe'
         },
         {
           icon: 'mdi-chart-bubble',
