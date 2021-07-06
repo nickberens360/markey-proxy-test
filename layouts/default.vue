@@ -65,6 +65,10 @@
           </span>
           </span>
         </template>
+        <ul>
+          <li>
+            <a href="/customers/stripe">Customer Stripe</a></li>
+        </ul>
         <v-list>
           <v-list-item
             v-for="(item, i) in navAccountItems"
@@ -121,11 +125,6 @@ export default {
       drawer: false,
       fixed: false,
       items: [
-        {
-          icon: 'mdi-apps',
-          title: 'Customer Stripe',
-          to: '/customers/stripe'
-        },
         {
           icon: 'mdi-chart-bubble',
           title: 'Inspire',

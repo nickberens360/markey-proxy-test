@@ -7,8 +7,8 @@ export default {
   },
   publicRuntimeConfig: {
     baseUrl: process.env.BASE_URL || 'http://localhost:3000',
-    authUrl: process.env.AUTH_URL || 'http://localhost:8000',
-    apiUrl: process.env.API_URL || 'http://localhost:8000/api'
+    authUrl: process.env.AUTH_URL || 'https://my-testing.markeyds.com',
+    apiUrl: process.env.API_URL || 'https://my-testing.markeyds.com'
   },
   privateRuntimeConfig: {
     apiSecret: process.env.API_SECRET
