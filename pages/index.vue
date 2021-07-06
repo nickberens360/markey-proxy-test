@@ -9,7 +9,7 @@
           <hr class="my-3">
           <ul>
             <li>
-              <a href="/customers/stripe">Customer Stripe</a>
+              <a href="/contact">Contact wisnet.com</a>
             </li>
           </ul>
           <br>
