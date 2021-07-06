@@ -7,13 +7,11 @@
         </v-card-title>
         <v-card-text>
           <hr class="my-3">
-          <a
-            href="https://nuxtjs.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Nuxt Documentation
-          </a>
+          <ul>
+            <li>
+              <a href="/customers/stripe">Customer Stripe</a>
+            </li>
+          </ul>
           <br>
           <a
             href="https://github.com/nuxt/nuxt.js"
